@@ -1,9 +1,7 @@
 GuiaCryptoCat
 =============
 
-Mini manual de CryptoCat
-
-Traducción y rearmado para que sea mas libre que la versión [original](https://github.com/cryptocat/cryptocat-meta).
+Proyecto para la traducción y rearmado para que sea mas libre que la versión [original](https://github.com/cryptocat/cryptocat-meta/blob/master/guide/pagespreads/cryptocat_08282013.pdf?raw=true),
 
 Edición
 -------
@@ -11,11 +9,10 @@ Edición
 ![inkscape](img/inkscape.png)
 > Para editar el documento uso [Inkscape](http://inkscape.org/)
 
-### Fuentes tipográficas
+
+Si no tenes las tipografias tenes que instalarlas, en tu sistema.
 
 ![Fuente](img/fuentes.png)
-
-Si no tenes las tipografias tenes que instalarlas
 
 <pre>
 mkdir ~/.fonts
