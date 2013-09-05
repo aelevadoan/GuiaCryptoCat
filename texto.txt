@@ -1,0 +1,33 @@
+Conversation Name can be whatever you want. 
+Everyone you want to chat with must use the same conversation name to be in the same chat. 
+Click on a user’s name to start a private conversation with them.Click the white arrow to view their key information,  send fles,  or 
+block the user. Nickname is your name in the conversation. Change your status to away or available. View your fngerprint for the 
+conversation. Turn the sound on and off. Leave the conversation! 
+
+Keysand Fingerprints: ThisisImportant spydog thwarted!! 
+When you writea message using  Cryptocat,  each messageis en Cryptedonyourowncomputerbefore beingsent .Onlytheintendedrecipient(s)havethe 
+keytode Cryptandreadthemessage, preventing the itfrombeingrevealedto a thirdparty. how Cryptocatworks th OrangeCaten Cryptstheirchat 
+messageusingtheir se Cretkey . Theysetthemessagesothat onlyGrayCatcande Cryptit using GrayCat’sse Cretkey.When themessagepassesthroughthe 
+server, itisalreadyen Crypted-- ifit’sintercepted, SpyDogcan’t readit. VerifyingIdentities  Cryptocat.UsershaveanOTRkey(forprivate 
+conversations)andagroupconversation thirdchannel(voice, DM)isonewaytoverify thatthepersonyou’retalkingtoiswhoyou thinkitis. 
+Everytimeyouuse Cryptocat, you y firevotdeenu o y o S . that identityeverytime. GrayCatreceivesthemessageand de Crypts itusing 
+theirse Cretkey. Keysand Fingerprints: ThisisImportant spydog thwarted!! Whenyouwriteamessageusing Cryptocat, each messageis 
+en Cryptedonyourowncomputerbefore beingsent .Onlytheintendedrecipient(s)havethe keytode Cryptandreadthemessage, preventing the 
+itfrombeingrevealedto a thirdparty. how Cryptocatworks th OrangeCaten Cryptstheirchat messageusingtheir se Cretkey . 
+Theysetthemessagesothat onlyGrayCatcande Cryptit using GrayCat’sse Cretkey.When themessagepassesthroughthe server, itisalreadyen Crypted-- 
+ifit’sintercepted, SpyDogcan’t readit. VerifyingIdentities  Cryptocat.UsershaveanOTRkey(forprivate conversations)andagroupconversation 
+thirdchannel(voice, DM)isonewaytoverify thatthepersonyou’retalkingtoiswhoyou thinkitis. Everytimeyouuse Cryptocat, you y f i r e v o t d e 
+e n u o y o S . that identityeverytime. GrayCatreceivesthemessageand de Crypts itusing theirse Cretkey.  WHATITIS 
+ Cryptocatisafreebrowserpluginthatprovidesan en CryptedInstantMessagingenvironment foryour conversations.DifferentthanFacebookChator 
+Skype,  Cryptocatisasecureanden Cryptedmessage environment toprotectyour privacy. SPYDOG!! ORANGE CAT 
+Whenyouusemostchatservices, themessagesyousend gofromyoutoaservertothepersonyou’rechatting with.Throughoutthisprocess, themessagesremain 
+unen Crypted .Thismeansthatsomeoneelsewhoisn’tin your conversation canpotentially intercept it. GRAY CAT hownormal chatworks server 
+message  Cryptocat A very short introduction Keys and Fingerprints: This is Important What  Cryptocat Doesn’t Do While  Cryptocat aims to 
+offer strongly en Crypted,  private Instant Messaging,  it’s important to note what  Cryptocat does not protect you against:  Cryptocat does 
+not anonymize you: While your communications are en Crypted,  your identity can still be traced since  Cryptocat does not mask your IP 
+address. For anonymization,  we highly recommend using Tor.  Cryptocat does not protect against key loggers: Your messages are en Crypted 
+as they go through the wire,  but that doesn’t mean that your keyboard is necessarily safe.  Cryptocat does not protect against hardware 
+or software key loggers which might be snooping on your keyboard strokes and sending them to an undesired third party.  Cryptocat does 
+not protect against untrustworthy people: Parties you’re conversing with may still leak your messages without your knowledge.  Cryptocat 
+aims to make sure that only the parties you’re talking to get your messages,  but that doesn’t mean these parties are necessarily 
+trustworthy.
