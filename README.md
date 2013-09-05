@@ -9,8 +9,7 @@ Edición
 -------
 
 ![inkscape](img/inkscape.png)
-
-Para editar el documento uso [Inkscape](http://inkscape.org/)
+> Para editar el documento uso [Inkscape](http://inkscape.org/)
 
 ### Fuentes tipográficas
 
