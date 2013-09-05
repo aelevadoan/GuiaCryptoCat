@@ -1,0 +1,50 @@
+#LO QUE ES
+
+Cryptocat es un plugin libre de navegador que ofrece un entorno de mensaje instantáneo encriptado para tus conversaciones. A diferencia al chat de Facebook o Skype, Cryptocat es un entorno de mensajería seguro y encriptado para proteger tu privacidad.
+
+Cuando usas servicios de chat, los mensajes que envías van desde tu servidor hasta la persona con la que estás chateando. A lo largo de este proceso, los mensajes permanecen sin encriptar. Eso significa que otra persona que no está en tu conversación puede, potencialmente, interceptar el mensaje.
+
+Esquema 1: cómo funciona el chat normal/corriente
+
+
+#CÓMO FUNCIONA CRYPTOCAT
+
+Cuando escribes un mensaje usando Cryptocat, cada mensaje es encriptado en tu computador antes de enviarlo. Sólo lo(s) receptor(es) previstxs tienen la clave para desencriptar y leer el mensaje, previniendo así que se revela a "terceras partes".
+
+Gato Gris recibe el mensaje y lo desencripta usando su clave secreta. Configuraron el mensaje para que sólo Gato Gris pudiera desencriptarlo utilizando la clave secreta de Gato Gris. Cuando el mensaje pasa por el servidor, ya está en encriptado --en caso de que se pudiera interceptar, el Perro Espía no podría interceptarlo.
+
+##Verificando identidades
+La "huella digital" es la clave pública del usuario en Cryptocat. Lxs usuarixs tienen una clave OTR (para conversaciones privadas)y una "huella digital" para la conversación grupal. 
+
+Confirmar la clave de alguien usando un "tercer canal" (voz, DM) es una manera de verificar que la persoa con la que estás hablando es quien crees que es. Cada vez que uses Cryptocat, obtienes una nueva serie de "huellas", así que tienes que identificar esa identididad cada vez.
+
+
+*Nombre de conversación* puede ser lo que quieras. Todxs con lxs que quieras chatear deben usar el mismo nombre de convesación para estar en el mismo chat.
+ 
+*El nick/nombre de usuario" es tu nombre en la conversación.
+
+*Cliquea sobre el nombre de usario* para empezar una conversación privada. Cliquea sobre la flecha blanca (triángulo invertido) para ver su información de clave, enviar archivos encriptados o bloquear el usuario.
+
+
+*Cambia tu estado* a ausente o disponible.
+
+*Visualiza tu huella digital" para la conversación.
+
+Apaga/enciende el *sonido*
+
+*Abandona* la conversación.
+
+
+#LO QUE NO HACE CRYPTOCAT
+
+Aunque Cryptocat tiene como objetivo ofrecer una mensajería instantánea fuertemente enciptada, es importante tener en cuenta que Cryptocat no te protege ante:
+
+*Cryptocat no te anonimiza*: pese a que tus comunicaciones están encriptadas, tu identidad puede rastrearse ya que Cryptocat no "enmascara"/oculta tu dirección IP. Para anonimizarte, te recomendamos usar Tor. 
+
+*Cryptocat no te protege de que haya programas que almacenen lo que escribes: tus mensajes están encriptadas mientras viajan por la red, pero eso no quiere decir, necesariamente, que tu teclado esté seguro. Cryptocat no te protege contra hardware o software que almacena lo que escibes y que se mande a "terceras partes". 
+
+*Cryptocat no te protege contra personas de poca confianza*: los receptores de tus mensajes pueden derivar tus mensajes sin que lo sepas. Cryptocat tiene como objetivo que tus mensajes sólo llegen a los receptores que escojas, pero no aseguro que esas personas sean de confianza o no.
+
+
+
+ 
