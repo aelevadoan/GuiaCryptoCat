@@ -23,3 +23,9 @@ mkdir ~/.fonts
 cp ttf/04b30.ttf ~/.fonts
 </pre>
 
+
+Quehaceres
+----------
+
+* Diagramar / Ordenar
+* Traducir el español (castellano)
