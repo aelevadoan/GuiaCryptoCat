@@ -21,7 +21,7 @@ Confirmar la clave de alguien usando un "tercer canal" (voz, DM) es una manera d
 
 *Nombre de conversación* puede ser lo que quieras. Todxs con lxs que quieras chatear deben usar el mismo nombre de convesación para estar en el mismo chat.
  
-*El nick/nombre de usuario" es tu nombre en la conversación.
+*El nick/nombre de usuario* es tu nombre en la conversación.
 
 *Cliquea sobre el nombre de usario* para empezar una conversación privada. Cliquea sobre la flecha blanca (triángulo invertido) para ver su información de clave, enviar archivos encriptados o bloquear el usuario.
 
