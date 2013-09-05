@@ -29,3 +29,4 @@ Quehaceres
 
 * Diagramar / Ordenar
 * Traducir el español (castellano)
+* Versión alto contraste tipo fanzine (para fotocopiadoras)
